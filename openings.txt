@@ -1,0 +1,77 @@
+Bc4, Wc3
+Bc4, Wc3, Bd3, Wc5, Bb2
+Bc4, Wc3, Bd3, Wc5, Bb3
+Bc4, Wc3, Bd3, Wc5, Bb3, Wf3
+Bc4, Wc3, Bd3, Wc5, Bb3, Wf4, Bb5, Wb4, Bc6, Wd6, Bf5
+Bc4, Wc3, Bd3, Wc5, Bb4
+Bc4, Wc3, Bd3, Wc5, Bb4, Wd2, Bc2, Wf4, Bd6, Wc6, Bf5, We6, Bf7
+Bc4, Wc3, Bd3, Wc5, Bb4, Wd2, Bd6
+Bc4, Wc3, Bd3, Wc5, Bb4, Wd2, Be2
+Bc4, Wc3, Bd3, Wc5, Bb4, We3
+Bc4, Wc3, Bd3, Wc5, Bb5
+Bc4, Wc3, Bd3, Wc5, Bb6
+Bc4, Wc3, Bd3, Wc5, Bb6, Wc6, Bb5
+Bc4, Wc3, Bd3, Wc5, Bb6, We3
+Bc4, Wc3, Bd3, Wc5, Bd6
+Bc4, Wc3, Bd3, Wc5, Bd6, We3
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bb4
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bb4, Wb6, Bb5, Wc6, Bb3
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bb4, Wb6, Bb5, Wc6, Bf5
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bb4, Wc6, Bb5, Wb3, Bb6, We3, Bc2, Wa4, , Bba5, Wa6, Bd2
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bb4, We3, Bb3
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bf5
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bf5, Wd2
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bf5, Wd2, Bb5
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bf5, Wd2, Bg4, Wd7
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bf5, We6, Bc6, Wd7
+Bc4, Wc3, Bd3, Wc5, Bd6, Wf4, Bf5, We6, Bf6
+Bc4, Wc3, Bd3, Wc5, Bf6
+Bc4, Wc3, Bd3, Wc5, Bf6, We2, Bc6
+Bc4, Wc3, Bd3, Wc5, Bf6, We3, Bc6, Wf5, Bf4, Wg5
+Bc4, Wc3, Bd3, Wc5, Bf6, Wf5
+Bc4, Wc3, Be6, Wc5
+Bc4, Wc3, Bf5, Wc5
+Bc4, Wc5
+Bc4, We3
+Bc4, We3, Bf4, Wc5, Bd6, We6
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Bc6
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Bd3
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Bd3, Wc3
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be2
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb5
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb5, Wf5
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb5, Wf5, Bb3
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb5, Wf5, Bb4, Wf6, Bc2, We7, Bd2, Wc7
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb6, Wf5
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb6, Wf5, Bb4, Wf6, Bg5, Wd7
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb6, Wf5, Bg5
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bb6, Wf5, Bg5, Wf6
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc3, Bd3, We2, Bd2
+Bc4, We3, Bf4, Wc5, Bd6, Wf3, Be6, Wc6
+Bc4, We3, Bf4, Wc5, Be6
+Bc4, We3, Bf5, Wb4
+Bc4, We3, Bf5, Wb4, Bf3
+Bc4, We3, Bf5, Wb4, Bf3, Wf4, Be2, We6, Bg5, Wf6, Bd6, Wc6
+Bc4, We3, Bf5, We6, Bd3
+Bc4, We3, Bf5, We6, Bf4
+Bc4, We3, Bf5, We6, Bf4, Wc5, Bd6, Wc6, Bf7, Wf3
+Bc4, We3, Bf5, We6, Bf4, Wc5, Bd6, Wc6, Bf7, Wg5, Bg6
+Bc4, We3, Bf6, Wb4
+Bc4, We3, Bf6, We6, Bf5
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3, Wb4
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3, Wb4, Bd6, Wc6, Bb5, Wa6, Bb6, Wc7
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3, Wc6
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3, Wc6, Bd3, Wd2, Be2, Wb3, Bc1, Wc2, Bb4, Wa3, , Bba5, Wb5, , Bba6, Wa4, , Bba2
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3, Wc6, Bd6
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bc3, Wg5
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bd3
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bd6
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bf4, Wg5, Bg4, Wf3, Bc6, Wd3, Bd6
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bf4, Wg5, Bg4, Wf3, Bc6, Wd3, Bd6, Wb3, Bc3, Wb4, Be2, Wb6
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bf4, Wg6, Bf7
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bf4, Wg6, Bf7, Wd3
+Bc4, We3, Bf6, We6, Bf5, Wc5, Bf4, Wg6, Bf7, Wg5
+Bc4, We3, Bf6, We6, Bf5, Wg6
+Bc4, We3, Bf6, We6, Bf5, Wg6, Be7, Wc5

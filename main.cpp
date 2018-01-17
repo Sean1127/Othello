@@ -16,8 +16,8 @@ vector<vector<int> > createBoard()
 
 void initPlayer(Player *player)
 {
-    player[0] = Player(BLACK, false);
-    player[1] = Player(WHITE, true);
+    player[0] = Player(BLACK, true);
+    player[1] = Player(WHITE, false);
 }
 
 int main(int argc, char *argv[])
@@ -36,6 +36,10 @@ int main(int argc, char *argv[])
     // main loop
     while (!Othello::isFull(board)) {
         vector<Move> moves = Othello::getLegalMoves(&board, player[turn].color);
+        if (moves.size() == 0) {
+            turn = (turn)? 0: 1;
+            continue;
+        }
         Othello::print(board);
         if (player[turn].color == BLACK) {
             cout << "BLACK's turn" << endl;
@@ -50,7 +54,14 @@ int main(int argc, char *argv[])
             }
 
             // AI algorithm
-            move = Othello::MCSPure(board, moves, player[turn].color);
+            if (Othello::isEndGame(board)) {
+                move = Othello::brute(board, moves, player[turn].color);
+            } else if (Othello::isEarlyGame(board)) {
+
+            } else {
+                move = Othello::MCSPure(board, moves, player[turn].color);
+                //move = rand() % moves.size();
+            }
             Othello::makeMove(&board, moves[move], player[turn].color);
             cout << "player" << turn << " plays " << move << endl << endl;
         } else {
@@ -62,11 +73,30 @@ int main(int argc, char *argv[])
 
             // user input
             cin >> move;
+            bool legal = (move >= 0 && move < moves.size())? true: false;;
+            while (!legal) {
+                cout << "please choose a legal move" << endl;
+                cout << "player" << turn << " plays " ;
+                cin >> move;
+                legal = (move >= 0 && move < moves.size())? true: false;
+            }
             cout << endl;
             Othello::makeMove(&board, moves[move], player[turn].color);
         }
 
         turn = (turn)? 0: 1;
     }
+
+    int disk = Othello::win(board, BLACK);
+    if (disk > 0) {
+        cout << "BLACK wins with " << disk << "more disks" << endl;
+    } else if (disk < 0) {
+        cout << "WHITE wins with " << -disk << "more disks" << endl;
+    } else {
+        cout << "draw" << endl;
+    }
+
+    Othello::print(board);
+
     return 0;
 }
